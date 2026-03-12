@@ -127,9 +127,9 @@ Before submitting, verify:
 
 ## Your Information
 
-**Name:** [Your Name]
-**Student ID:** [Your Student ID]
-**Design Theme:** [Describe your portfolio theme/style]
+**Name:** Raymond S Lapaan
+**Student ID:** 2022051106
+**Design Theme:** Modern developer portfolio
 
 ### CSS Techniques Used
 - [ ] CSS Custom Properties
